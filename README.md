@@ -17,5 +17,8 @@ This repo showcases the bug robot my team and I developed during my freshman yea
 
 <p align="center">
 <img width="700" height="500" src="images/bug1.JPG">
-Rear view showing the drivetrain and structure of the robot. This robot has a short and relatively narrow wheelbase that makes it very good at not falling off of tables.
 </p>
+
+<p align="center">
+  Rear view showing the drivetrain and structure of the robot. This robot has a short and relatively narrow wheelbase that makes it very good at not falling off of tables.
+  </p>
