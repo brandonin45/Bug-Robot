@@ -8,8 +8,10 @@ This repo showcases the bug robot my team and I developed during my freshman yea
  * Navigating terrain without falling off edges
 
 ## Design
-![image](images/bug1.JPG)
-Front view of the robot, showing the color and ultrasonic sensors responsible for detecting food, boxes, and edges.  
+<p align="center">
+<img width="700" height="500" src="images/bug1.JPG">
+</p>
+ Front view of the robot, showing the color and ultrasonic sensors responsible for detecting food, boxes, and edges.  
 
 
 ![image](images/bug2.JPG)
