@@ -8,4 +8,4 @@ This repo showcases the bug robot my team and I created during my freshman year 
  * Navigating terrain without falling off edges
 
 ## Design
-![image](images/bug1.JPG)
+![image](images/bug1.JPG =100x20)
