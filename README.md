@@ -11,5 +11,6 @@ This repo showcases the bug robot my team and I created during my freshman year 
 ![image](images/bug1.JPG)
 Front view of the robot, showing the color and ultrasonic sensors responsible for detecting food, boxes, and edges.  
 
+
 ![image](images/bug2.JPG)
 Rear view showing the drivetrain and structure of the robot. This robot has a short and relatively narrow wheelbase that makes it very good at not falling off of tables.
