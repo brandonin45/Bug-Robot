@@ -1,4 +1,4 @@
-# Bug-Robot
+# Bug Robot
 This repo showcases the bug robot my team and I developed during my freshman year of college. The robot was built with the LEGO Mindstorms kit and programmed with LabVIEW. The purpose of this project was to create a robot that performed bug-like functions such as detecting danger, hiding, and eating.
 
 ## Functions
