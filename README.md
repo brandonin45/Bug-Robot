@@ -10,8 +10,10 @@ This repo showcases the bug robot my team and I developed during my freshman yea
 ## Design
 <p align="center">
 <img width="700" height="500" src="images/bug1.JPG">
-Front view of the robot, showing the color and ultrasonic sensors responsible for detecting food, boxes, and edges.  
 </p>
+<p align="center">
+  Front view of the robot, showing the color and ultrasonic sensors responsible for detecting food, boxes, and edges.  
+  </p>
 
 <p align="center">
 <img width="700" height="500" src="images/bug1.JPG">
