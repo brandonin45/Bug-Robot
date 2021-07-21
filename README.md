@@ -16,7 +16,7 @@ This repo showcases the bug robot my team and I developed during my freshman yea
   </p>
 
 <p align="center">
-<img width="700" height="500" src="images/bug1.JPG">
+<img width="700" height="500" src="images/bug2.JPG">
 </p>
 
 <p align="center">
